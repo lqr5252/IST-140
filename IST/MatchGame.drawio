@@ -1,1 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T13:28:03.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" version="13.7.7" etag="KmsMzmQpGIzEJWadLiLs" type="github"><diagram id="iBLPrypkgBdJrWT6veoW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-05T13:43:15.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="d090u1BR60hffnJYj5_O" version="13.7.7" type="github">
+  <diagram id="iBLPrypkgBdJrWT6veoW" name="Page-1">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-1" target="BNbs50rlNYpRb5k6-0KN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-1" value="define string inputWords with multiple words" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-2" target="BNbs50rlNYpRb5k6-0KN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-2" value="define string inputMatch with one character" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-3" target="BNbs50rlNYpRb5k6-0KN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-3" target="BNbs50rlNYpRb5k6-0KN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-3" value="while counter is less than inputWords.length" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-4" target="BNbs50rlNYpRb5k6-0KN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-12" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BNbs50rlNYpRb5k6-0KN-11">
+          <mxGeometry x="-0.35" y="-36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-4" target="BNbs50rlNYpRb5k6-0KN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-4" value="Check if character 1 of inputWords is inputMatch" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341.5" y="640" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-8" target="BNbs50rlNYpRb5k6-0KN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-8" value="create variable counter initialize with 0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-9" target="BNbs50rlNYpRb5k6-0KN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-9" value="create variable &amp;nbsp;numMatches and initialize with 0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-10" target="BNbs50rlNYpRb5k6-0KN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-10" value="+1 to numMatches" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="486.5" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="547" y="1000" />
+              <mxPoint x="710" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-13" value="+1 to counter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="486.5" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="294" y="1020" />
+              <mxPoint x="710" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-14" value="+1 to &amp;nbsp;counter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-20" value="please run program again and enter only one character in second prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-21" value="when counter is not less than inputWords.length&lt;br&gt;print numMatches = X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-22" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="750" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-23" target="BNbs50rlNYpRb5k6-0KN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BNbs50rlNYpRb5k6-0KN-23" target="BNbs50rlNYpRb5k6-0KN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNbs50rlNYpRb5k6-0KN-23" value="if inputMatch == 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
