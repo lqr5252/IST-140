@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T12:15:15.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" version="13.7.7" etag="qCJfk6GF1s77KFkhzSFF" type="github"><diagram id="ycq-5HoNrjGpWNI6-lyZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-05T12:45:06.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="EvNNozuKLNjhrOs82Q8r" version="13.7.7" type="github">
+  <diagram id="ycq-5HoNrjGpWNI6-lyZ" name="Page-1">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PVpiOCkIRc5VFLCnPaeY-1" target="PVpiOCkIRc5VFLCnPaeY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-1" value="input guess (as a number)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PVpiOCkIRc5VFLCnPaeY-2" target="PVpiOCkIRc5VFLCnPaeY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-2" value="compare to computers pick" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="230" width="115" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-3" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;Scissors&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;cuts&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;paper&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp;paper&amp;nbsp;covers&amp;nbsp;rock,&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp;rock&amp;nbsp;crushes&amp;nbsp;lizard,&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp;lizard&amp;nbsp;poisons&amp;nbsp;Spock,&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp;Spock&amp;nbsp;smashes&amp;nbsp;scissors,&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp;scissors&amp;nbsp;decapitates&amp;nbsp;lizard,&amp;nbsp;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;lizard&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;eats&amp;nbsp;&lt;/span&gt;paper&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp;paper&amp;nbsp;disproves&amp;nbsp;Spock,&amp;nbsp;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;Spock&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;vaporizes&amp;nbsp;&lt;/span&gt;rock&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp;rock&amp;nbsp;crushes&amp;nbsp;scissors&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-4" value="1-Rock&lt;br&gt;2-Paper&lt;br&gt;3- Scissors&lt;br&gt;4- Lizard&lt;br&gt;5-Spock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="70" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PVpiOCkIRc5VFLCnPaeY-6" target="PVpiOCkIRc5VFLCnPaeY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-6" value="get computer&#39;s pick" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PVpiOCkIRc5VFLCnPaeY-10" target="PVpiOCkIRc5VFLCnPaeY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-10" value="output the result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PVpiOCkIRc5VFLCnPaeY-12" target="PVpiOCkIRc5VFLCnPaeY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-12" value="store the result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PVpiOCkIRc5VFLCnPaeY-13" target="PVpiOCkIRc5VFLCnPaeY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-13" value="prompt the user to play again" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PVpiOCkIRc5VFLCnPaeY-14" target="PVpiOCkIRc5VFLCnPaeY-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="710" />
+              <mxPoint x="290" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PVpiOCkIRc5VFLCnPaeY-14" target="PVpiOCkIRc5VFLCnPaeY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-14" value="Y/N" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="660" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-21" value="out winning percentages" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-23" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PVpiOCkIRc5VFLCnPaeY-25" value="user random" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
