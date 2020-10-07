@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T14:22:37.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Hs3YnGrOoelSOrP6Uy1M" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T16:18:15.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="uV-ClRYPGCZRXRdZjnsE" version="13.7.7" type="github">
   <diagram id="6jmAKRlNkdYc4mqREbLQ" name="Page-1">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-8" value="if user doesn&#39;t enter numbers print again" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-9" value="&lt;div style=&quot;text-align: left&quot;&gt;for(int i=0; i&amp;lt;=numRows; I++)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;{&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; System.out.println();&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-9" value="&lt;div style=&quot;text-align: left&quot;&gt;for(int i=0; i&amp;lt;=numRows; i++)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; for(int x=0; x&amp;lt;=numColumns; x++)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;System.out.println((str1 str3 str2)*numColumns);&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="670" width="310" height="170" as="geometry" />
         </mxCell>
       </root>
