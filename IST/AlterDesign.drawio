@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T13:58:20.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" version="13.7.7" etag="Ndkhscy7LX6XYdgx9uxR" type="github"><diagram id="6jmAKRlNkdYc4mqREbLQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T14:22:37.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Hs3YnGrOoelSOrP6Uy1M" version="13.7.7" type="github">
+  <diagram id="6jmAKRlNkdYc4mqREbLQ" name="Page-1">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-2" value="prompt user to enter number between 1 and 10 for rows" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-3" value="&lt;span&gt;prompt user to enter number between 1 and 10 for columns&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-4" value="prompt user to enter a string for the starting of the design" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-5" value="&lt;span&gt;prompt user to enter a string for the ending of the design&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-6" value="&lt;span&gt;prompt user to enter a string for the separator of the design&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-7" value="if user doesn&#39;t enter numbers print again" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-8" value="if user doesn&#39;t enter numbers print again" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_h3Tn9MeuH6Xp6GM9m-9" value="&lt;div style=&quot;text-align: left&quot;&gt;for(int i=0; i&amp;lt;=numRows; I++)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;{&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; System.out.println();&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="670" width="310" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
